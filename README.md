@@ -1,4 +1,4 @@
-###Fast Fourier Transform C++ Implementation
+### Fast Fourier Transform C++ Implementation
 
 The following code (mainly ntt.cpp) implements Number Theoretic Transform in C++ for multiplying two polynomials in O(nlogn)
 This was motivated to solve the question https://www.codechef.com/DEC19A/problems/BINOFEV/ and so I learnt how to use FFT and NTT
